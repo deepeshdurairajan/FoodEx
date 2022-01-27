@@ -1,0 +1,88 @@
+body{
+    margin:auto;
+}
+#header{
+    height:60px;
+    background-color:rgb(182, 35, 35);
+}
+#socials{
+    float: right;
+    margin-right: 2%;
+    margin-top: 1%;
+}
+.slogo{
+    height:25px;
+    width:25px;
+    margin-left: 5px;
+}
+a{
+    text-decoration:none;
+}
+#name{
+    font-size: 25px;
+    color:rgb(255, 208, 0);
+    margin-left: 1%;
+    margin-top: 1%;
+    position: absolute;
+}
+.headingtext{
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 12%;
+}
+#listingcontainer{
+    width: 76%;
+    height:800px;
+    margin-left: 12%;
+    display: inline-block;
+    margin-top: 1%;
+}
+.filter{
+    width: 20%;
+    height:650px;
+    float:left; 
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    display: inline-block;
+    margin-top:1.5%;
+}
+.content{
+    width: 74%;
+    height:800px;
+    float:left;
+    margin-left:5%;
+}
+.subcontainer{
+    width:85%;
+    height:250px;
+    float:left;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    margin-top:2%;
+}
+.cont1{
+    width:40%;
+    height:250px;
+    float:left;
+}
+.cont1 >img{
+    width:75%;
+    height:75%;
+    border-radius: 10%;
+    margin-top:10%;
+    margin-left: 10%;
+}
+.cont2{
+    width: 50%;
+    height: 250px;
+    margin-left: 35%;
+
+}
+.cont2 >h1{
+color: rgba(231, 35, 0, 0.568);
+
+}
+.dropdown{
+    margin-top: 1%;
+    margin-left: 0.5%;
+    position: absolute;
+}
+
